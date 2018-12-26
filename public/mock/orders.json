@@ -1,0 +1,45 @@
+{
+    "success":true,
+    "data":[
+        {
+            "id":1,
+            "shop":"院落创意菜",
+            "picture":"http://pic1.nipic.com/2008-12-30/200812308231244_2.jpg",
+            "product":"百香果 (冷饮) 1扎",
+            "price":19.9,
+            "ifCommented":true
+        },
+        {
+            "id":2,
+            "shop":"黄焖鸡米饭",
+            "picture":"http://pic1.nipic.com/2008-12-30/200812308231244_2.jpg",
+            "product":"黄焖鸡 (冷饮) 1碗",
+            "price":19.9,
+            "ifCommented":false
+        },
+        {
+            "id":3,
+            "shop":"肯德堡",
+            "picture":"http://pic1.nipic.com/2008-12-30/200812308231244_2.jpg",
+            "product":"肯德堡 1个",
+            "price":19.9,
+            "ifCommented":false
+        },
+        {
+            "id":4,
+            "shop":"大虾面",
+            "picture":"http://pic1.nipic.com/2008-12-30/200812308231244_2.jpg",
+            "product":"大虾面 1碗",
+            "price":19.9,
+            "ifCommented":false
+        },
+        {
+            "id":5,
+            "shop":"红烧牛肉面馆",
+            "picture":"http://pic1.nipic.com/2008-12-30/200812308231244_2.jpg",
+            "product":"红烧牛肉面 1碗",
+            "price":19.9,
+            "ifCommented":true
+        }
+    ]
+}
